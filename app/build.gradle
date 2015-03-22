@@ -1,0 +1,9 @@
+apply plugin: 'com.android.application'
+
+apply from:"../app.gradle"
+
+//android.defaultConfig.applicationId = "com.android.startup"
+
+dependencies {
+     
+}
