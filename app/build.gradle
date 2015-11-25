@@ -2,8 +2,7 @@ apply plugin: 'com.android.application'
 
 apply from:"../app.gradle"
 
-//android.defaultConfig.applicationId = "com.android.startup"
+android.defaultConfig.applicationId = "com.meiyaapp.meiya"
 
-dependencies {
-     
+dependencies { 
 }
